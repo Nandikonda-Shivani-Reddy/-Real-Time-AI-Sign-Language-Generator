@@ -223,11 +223,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 - Sign language communities for resources and guidance
 - NISH (National Institute of Speech and Hearing) for ISL resources
 
-## Contact
-
-For questions or suggestions, please open an issue on GitHub.
-
 ---
 
-**Created**: May 2026  
-**Version**: 1.0.0
+**Version**: 1.0.0  
+**Maintained by**: Nandikonda-Shivani-Reddy
